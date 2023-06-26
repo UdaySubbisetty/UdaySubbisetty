@@ -33,10 +33,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 #### Top Repositories
 
-<a href="https://github.com/UdaySubbisetty/github-readme-stats">
+<a href="https://github.com/UdaySubbisetty/AnimatedFlatlist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaySubbisetty&repo=AnimatedFlatlist&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/UdaySubbisetty/Animate-Side-Menu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaySubbisetty&repo=Animate-Side-Menu&theme=buefy" />
 </a>
 
